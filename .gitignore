@@ -1,0 +1,14 @@
+.next
+node_modules
+dist
+build
+out
+coverage
+.DS_Store
+*.log
+.upload-test.cookies
+data/*.db
+.env
+.env.local
+prisma/dev.db
+prisma/dev.db-journal
