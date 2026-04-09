@@ -1,0 +1,16 @@
+.git
+.github
+.next
+node_modules
+.env
+.env.local
+.dev.err.log
+.dev.log
+.devserver.err.log
+.devserver.out.log
+.upload-test.cookies
+data
+coverage
+dist
+build
+out
